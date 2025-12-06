@@ -17,7 +17,7 @@ It includes a basic folder structure and a sample `userRoute` for RESTful APIs.
 ---
 
 ## 📂 Project Structure
-
+```
 project/ 
 ├── src/ 
 │ └── server.js 
@@ -29,3 +29,10 @@ project/
 ├── .gitignore 
 ├── package.json 
 └── node_modules/
+```
+
+Clone the repo and in the bash terminal run:
+```
+cd project1
+./file1.sh
+```

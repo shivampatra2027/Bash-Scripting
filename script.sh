@@ -1,4 +1,5 @@
-#!/bin/bash
+#!/bin/bash    
+# This is shabang ..
 # echo "Lets goo";
 
 #Variable 
